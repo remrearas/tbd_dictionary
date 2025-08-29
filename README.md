@@ -1,5 +1,9 @@
 # TBD Bilişim Terimleri Sözlüğü
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tbd-dictionary.streamlit.app/)
+
+🔗 **Canlı Demo:** [https://tbd-dictionary.streamlit.app/](https://tbd-dictionary.streamlit.app/)
+
 Türkiye Bilişim Derneği (TBD) tarafından hazırlanan İngilizce-Türkçe Bilişim Terimleri Sözlüğü'nün modern, dijital ve gelişmiş arama özelliklerine sahip Streamlit tabanlı web uygulaması.
 
 ## Özellikler
