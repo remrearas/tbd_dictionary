@@ -129,6 +129,8 @@ JSON dosyası şu yapıdadır:
 **Bilgiağı:** Mehmet Pektaş  
 **Güncelleme:** 2025-08-04
 
+**Kaynak:** [Bilişimde Özenli Türkçe - Önerilen Tüm Terimler](https://bilisimde.ozenliturkce.org.tr/onerilen-tum-terimler-ingilizce-turkce/)
+
 ---
 
 Copyright (c) 2025 Rıza Emre ARAS
