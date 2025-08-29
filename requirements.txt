@@ -1,0 +1,16 @@
+# ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███╗   ███╗
+# ██╔══██╗██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗████╗ ████║
+# ██████╔╝███████║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║
+# ██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
+# ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
+# ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
+# Copyright (c) 2025 Rıza Emre ARAS <r.emrearas@proton.me>
+
+# PDF Processing
+pdfplumber==0.11.4                     # PDF text extraction for dictionary conversion
+
+# Web UI
+streamlit==1.41.0                      # Web app framework for data apps
+
+# Search & Text Processing
+rapidfuzz==3.10.1                      # Fast fuzzy string matching library
